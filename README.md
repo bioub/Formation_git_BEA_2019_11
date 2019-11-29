@@ -8,6 +8,7 @@
 * git add
 * git commit
 * git status
+* git log
 
 ## Memento commandes liées aux branches
 
