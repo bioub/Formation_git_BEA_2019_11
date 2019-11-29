@@ -1,6 +1,4 @@
-# Formation Git
-
-Formation git du 28/11
+# Formation git du 28/11
 
 ## Memento commandes
 
