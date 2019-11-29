@@ -13,3 +13,7 @@ Formation git du 28/11
 
 ## Branches
 
+* git branch
+* git checkout -b docs/branches
+* git merge --ff-only
+* git merge --no-ff
