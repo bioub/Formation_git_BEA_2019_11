@@ -11,7 +11,7 @@ Formation git du 28/11
 * git commit
 * git status
 
-## Branches
+## Memento commandes liées aux branches
 
 * git branch
 * git checkout -b docs/branches
