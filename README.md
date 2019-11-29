@@ -10,3 +10,6 @@ Formation git du 28/11
 * git add
 * git commit
 * git status
+
+## Branches
+
