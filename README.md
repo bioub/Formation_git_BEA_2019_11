@@ -17,3 +17,9 @@
 * git merge --ff-only
 * git merge --no-ff
 * `git merge --ff-only` --squash puis `git commit`
+
+## Memento commande liées aux remotes
+
+* git fetch
+* git push
+* git pull
