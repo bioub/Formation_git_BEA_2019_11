@@ -17,3 +17,4 @@ Formation git du 28/11
 * git checkout -b docs/branches
 * git merge --ff-only
 * git merge --no-ff
+* `git merge --ff-only` --squash puis `git commit`
